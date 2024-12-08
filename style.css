@@ -1,0 +1,176 @@
+*{
+    /* background-color: #afe; */
+    margin: 0em ;
+    padding: 0em;
+}
+
+.container-main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 5rem;
+}
+/* */
+
+.container-for-logo{
+    width: 25rem;
+}
+
+#inc_width{
+    width: 150px;
+    height: 100px;
+    margin-top: 0px;
+    margin-left: 20px;
+}
+
+.set-size{
+    width: 25px;
+    height: 25px;
+    padding: 0.2rem;    
+    margin: 0.1rem;
+    color: gray;
+}
+
+.set-border{
+    width: 4.5rem;
+    height: 2rem;
+    padding: 0.65rem;
+    border: 2px solid rgba(0, 0, 255, 0.801);
+    color: blue;
+    border-radius: 30px;
+}
+
+.container-main nav li{
+    list-style-type: none;
+    padding: 3px;
+    margin-top: 5px;
+    margin-left: 7px;
+}
+
+.container-main-body{
+    background-color: #fff;
+    width: 100%;
+    height: 10rem;
+    display: flex;
+}
+
+.container-main-body-left_side{
+    width: 100%;
+    margin: 0px auto;
+    /* font-size: xx-large; */
+}
+
+.container-main-body-left_side h1{
+    font-size: xx-large;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;
+    font-size: 56px;
+    font-weight: 200;
+    color: #b24020;
+    margin-left: 5rem;
+}
+
+.container-main-body-left_side-second{
+    margin: 0px auto;
+    width: 20rem;
+    line-height: 1.5rem;
+}
+
+.container-main-body-left_side-second p{
+    font-size: 1.2rem;
+    line-height: 2rem;
+}
+
+.container-main-body-left_side-second input{
+    width: 95%;
+    height: 3rem;
+    border-radius: 0.5rem;
+    border: 1px solid #000000;
+}
+
+.container-main-body-left_side-second button{
+    width: 20rem;
+    height: 3rem;   
+    font-family: 'Arial Narrow', Arial, sans-serif, 'Franklin Gothic Medium', ;
+    font-size: medium;
+    background-color: #0a66c2;
+    cursor: pointer;
+    border: 2px solid #0a66c2;
+    border-radius: 20px;
+    color: white;
+}
+
+.container-main-body-left_side-second button:hover{
+    background-color: #074069;
+    border: 1px solid #074069;
+    /* color: ; */
+
+}
+
+.input-box{
+    font-size: medium;
+    font-weight: 525;
+    line-height: 1.2rem;
+}
+
+#change_color{
+    color: rgba(0, 0, 255, 0.812);
+    font: bolder;
+    /* font-size: medium; */
+    font-weight: 700;
+}
+
+
+
+.container-main-body-left_side{
+    width: 50%;
+    height: 43rem;
+    /* background-color: lightblue; */
+}
+
+.container-main-body-right_side{
+    width: 50%;
+    height: 43rem;
+    /* background-color: rgb(15, 153, 199); */
+}
+
+.container-main-body-right_side img{
+    width: 42rem;
+    height: 42rem;
+}
+
+#dec_font-size{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    /* font: 10px; */
+    font-weight: 200;
+}
+
+.Change_color_blue{
+    color: #0a66c2;
+}
+
+#login_with_google{
+    background-color: #fff;
+    color: black;
+    border: 0.5px solid #000000;
+}
+
+#login_with_google:hover{
+    background-color: #c9c0c031;
+    border: 2px solid #000000;
+    box-shadow: 1px 1px 1px 1px;
+    font-weight: 600;
+}
+
+#new_user{
+    background-color: #fff;
+    color: rgba(128, 128, 128, 0.884);
+    border: 1px solid black;
+}
+
+#new_user:hover{
+    background-color: #c9c0c031;
+    border: 2px solid #000000e7;
+    box-shadow: 1px 1px 1px 1px;
+    font-weight: 600;
+}
