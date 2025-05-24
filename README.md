@@ -30,9 +30,15 @@ This project is a front-end clone of the LinkedIn login page, built using HTML a
 
 - Font Awesome
 
-
 ## 📌 Note
 
 - This is a static front-end clone. 
 - It does not include any real authentication, back-end logic, or API integrations.
+
+##
+![Screenshot 2025-05-24 100952](https://github.com/user-attachments/assets/b789682d-07a9-4976-8234-8239ea1d03d0)
+
+![Screenshot 2025-05-24 101013](https://github.com/user-attachments/assets/7c1a0932-44f3-4261-a3c3-a71dba87adbb)
+
+
 
